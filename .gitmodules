@@ -1,0 +1,4 @@
+[submodule "SubRepoSlave1"]
+	path = SubRepoSlave1
+	url = git@github.com:moshteaca/SubRepoSlave1.git
+	branch = main
